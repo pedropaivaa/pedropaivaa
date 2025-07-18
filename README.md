@@ -1,19 +1,8 @@
 ## Oii! Eu sou o Pedro :]
 
 - 🔭 Possuo interesse em <b>Criação/Design de Jogos<b> e <b>Full Stack Development<b> 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pedropaivaa&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pedropaivaa&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=pedropaivaa&show_icons=true" />
-</picture>
 
-##
+## Technologies
 <div style: "display: inline_block"><br>
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"" />
@@ -23,4 +12,5 @@
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right 10px" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img align="left" alt="Microsoft PowerAutomate" title="Microsoft PowerAutomate" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
+  <img align="left" alt="Photoshop " title="Photoshop " width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 </div>     

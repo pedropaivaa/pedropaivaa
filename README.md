@@ -19,8 +19,8 @@
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"" />
 <img align="left" alt="Html5" title="Html5" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="css3" title="css3" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img height="30" width="40" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<img height="30" width="40" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" />
-<img height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" />
-<img height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+<img align="left" alt ="git" title="git" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right 10px" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<img align="left" alt="Microsoft PowerAutomate" title="Microsoft PowerAutomate" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
 </div>     

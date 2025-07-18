@@ -21,5 +21,5 @@
 <img height="30" width="40" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
 <img height="30" width="40" src="https://images.icon-icons.com/112/PNG/512/python_18894.png" />
 <img height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" />
-<img height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fmysql_5968313&psig=AOvVaw1XdWxZ7b9vN_4c22EaN6bl&ust=1752947961823000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICGoMH_xo4DFQAAAAAdAAAAABAE" />
+<img height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 </div>     

@@ -1,6 +1,6 @@
-## Oii! Eu sou o Pedro :)
+## Oii! Eu sou o Pedro :]
 
-- 🔭 Interesse em <b>Design de Jogos <b> e <b>Game Backend Developer<b> 
+- 🔭 Pussuo interesse em <b>Criação/Design de Jogos<b> e <b>Full Stack Development<b> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=pedropaivaa&show_icons=true&theme=dark"

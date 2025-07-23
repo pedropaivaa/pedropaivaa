@@ -13,8 +13,6 @@
 <img loading="lazy" align="left" alt="Microsoft PowerAutomate" title="Microsoft PowerAutomate" width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Photoshop " title="Photoshop " width="30px" style="padding-right 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
-  
-<img align="left" alt="PowerApps " title="PowerApps " width="30px" style="padding-right 10px" src="https://en.wikipedia.org/wiki/Microsoft_Power_Platform#/media/File:Microsoft_Power_Platform_logo.svg" />
-
+<img align="left" alt="Photoshop " title="Photoshop " width="30px" style="padding-right 10px" src="https://powerwiki.net/images/f/f7/Powerapps.svg" />
 
 </div>     

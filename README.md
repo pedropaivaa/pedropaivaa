@@ -3,7 +3,7 @@
   </a>
   <br>
 
-  <a href="(https://www.linkedin.com/in/pedro-henrique-5788522aa/)" alt="Linkedin" target="_blank">
+  <a href="[https://www.linkedin.com/in/pedro-henrique-5788522aa/]" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 <h2></h2>
